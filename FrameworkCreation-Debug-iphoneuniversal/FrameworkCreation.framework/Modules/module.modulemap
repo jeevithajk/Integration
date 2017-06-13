@@ -1,0 +1,6 @@
+framework module FrameworkCreation {
+  umbrella header "FrameworkCreation.h"
+
+  export *
+  module * { export * }
+}
